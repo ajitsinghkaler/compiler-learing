@@ -2,5 +2,9 @@
   "name": "typescript",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+        "rxjs": "6.2.2",
+        "zone.js": "0.8.26",
+        "@angular/core": "6.0.9"
+  }
 }
