@@ -5,6 +5,7 @@
   "dependencies": {
         "rxjs": "6.2.2",
         "zone.js": "0.8.26",
-        "@angular/core": "6.0.9"
+        "@angular/core": "6.0.9",
+        "@angular/common": "6.0.9"
   }
 }
